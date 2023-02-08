@@ -16,3 +16,4 @@ Script that copies all the html files from the current working directory to the 
 Script that moves all files  beginning with an uppercase letter to the directory /tmp/u.
 Script that deletes all files in the current working directory that ends with the character ~.
 Script that creates directories /welcome/to/school in the current directory.
+Command that list all files and directories of current directory separated by commas.
