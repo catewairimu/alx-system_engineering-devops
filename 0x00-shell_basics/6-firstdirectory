@@ -1,0 +1,4 @@
+#!/bin/bash
+mkdir /tmp/my_first_directory >> 6-firstdirectory
+echo mkdir /tmp/my_first_directory pwd
+mkdir /tmp/my_first_directory
