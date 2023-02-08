@@ -13,3 +13,4 @@ Script that lists all  files (even the ones with names beginning with a period c
 Script that prints the type of file named iamafile in /tmp directory.
 A symbolic link /bin/ls,named __ls__ created in the current working directory.
 Script that copies all the html files from the current working directory to the parent working directory but only copies  files that did not exit in the parent working directory or are newer version.
+Script that moves all files  beginning with an uppercase letter to the directory /tmp/u.
