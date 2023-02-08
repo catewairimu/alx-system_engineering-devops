@@ -15,3 +15,4 @@ A symbolic link /bin/ls,named __ls__ created in the current working directory.
 Script that copies all the html files from the current working directory to the parent working directory but only copies  files that did not exit in the parent working directory or are newer version.
 Script that moves all files  beginning with an uppercase letter to the directory /tmp/u.
 Script that deletes all files in the current working directory that ends with the character ~.
+Script that creates directories /welcome/to/school in the current directory.
