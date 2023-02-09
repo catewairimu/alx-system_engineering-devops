@@ -10,4 +10,5 @@ A script that set permissions to the file hello whereby owner and the group owne
 A script that sets the mode of the file hello to -rwxr-x-wx 1. julien julien 23 sep 20 13:25 hello.
 The script set the mode of the file hello sames as the file olleh's mode.
 The script adds execute permission to all subdirectories of the current directory for the owner, the group owner and other users and regular files should not be changed.
-Script that creates a directory called my_dir with permission 751 in the working directory. 
+Script that creates a directory called my_dir with permission 751 in the working directory.
+Script that changes the group owner to school for the file hello. 
