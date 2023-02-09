@@ -13,4 +13,5 @@ The script adds execute permission to all subdirectories of the current director
 Script that creates a directory called my_dir with permission 751 in the working directory.
 Script that changes the group owner to school for the file hello.
 A script that changes the owner to vincent and the group owner to staff for all files and directories in the working directory.
-Script that changes the owner and the group owner of _hello to vincent and staff respectively. 
+Script that changes the owner and the group owner of _hello to vincent and staff respectively.
+A script that changes the owner of the file hello to betty only if it is own by the user guillaume. 
